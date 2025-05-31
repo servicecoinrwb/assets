@@ -1,0 +1,25 @@
+{
+  "name": "SREV",
+  "symbol": "SREV",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "SREV is the real revenue staking receipt token of Service Coin (SRV), earning yield from real-world HVAC, plumbing, and contractor business income.",
+  "website": "https://service.money",
+  "explorer": "https://arbiscan.io/token/0x2f745da2fa453ee76c756fadcc081f59284b2a40",
+  "status": "active",
+  "id": "0x2f745da2fa453ee76c756fadcc081f59284b2a40",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/ServiceCoin21"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/servicecoinrwb"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/srvcoinchat"
+    }
+  ]
+}
