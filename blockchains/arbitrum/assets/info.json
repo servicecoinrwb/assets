@@ -1,0 +1,25 @@
+{
+  "name": "SERVICE Coin",
+  "symbol": "SRV",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "SERVICE Coin (SRV) powers a real-world revenue DAO that connects HVAC, plumbing, and other service businesses to DeFi. Stake SRV to earn yield, convert SPN customer points into SRV, and participate in DAO-backed buybacks.",
+  "website": "https://servicecoindao.com",
+  "explorer": "https://arbiscan.io/token/0x057ba66c2109fd4487f0781e0203b71fd77a6341",
+  "status": "active",
+  "id": "0x057ba66c2109fd4487f0781e0203b71fd77a6341",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ServiceCoinDAO"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/servicecoinrwb"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/servicecoindao"
+    }
+  ]
+}
